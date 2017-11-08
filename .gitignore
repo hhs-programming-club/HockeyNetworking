@@ -1,0 +1,11 @@
+*.class
+bin
+
+# Package Files #
+*.war
+*.ear
+
+# Eclipse Files #
+.settings
+.classpath
+.project
